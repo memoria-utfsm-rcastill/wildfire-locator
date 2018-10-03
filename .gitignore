@@ -4,3 +4,4 @@ venv
 .Rhistory
 .RData
 *.xlsx
+__pycache__
